@@ -104,6 +104,7 @@ The assessed task required the robot to:
 - use the supplied robot configuration; and
 - navigate autonomously in every provided environment.
 
+## Progressive Results of Each mazes
 -----
 -----
 -----
