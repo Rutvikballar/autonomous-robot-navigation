@@ -104,10 +104,24 @@ The assessed task required the robot to:
 - use the supplied robot configuration; and
 - navigate autonomously in every provided environment.
 
+Maze 1 :- 
+
 <img width="960" height="540" alt="Maze1_Full" src="https://github.com/user-attachments/assets/55d43940-3d73-474d-a311-68844a11d96d" />
+
+Maze 2 :- 
+
 <img width="960" height="540" alt="Maze2_Full" src="https://github.com/user-attachments/assets/01ce2f99-0c20-4a9d-8a8e-5b6a68ffd728" />
+
+Maze 3 :-
+
 <img width="960" height="540" alt="Maze3_full" src="https://github.com/user-attachments/assets/f42f7bb6-65d4-4ab4-84b8-c459124ab48a" />
+
+Maze 4 :-
+
 <img width="960" height="540" alt="Maze4_Full" src="https://github.com/user-attachments/assets/1a84fd45-ec08-4e30-898b-585794dace76" />
+
+Maze 5 :- 
+
 <img width="960" height="540" alt="Maze5_Full" src="https://github.com/user-attachments/assets/bc12dfa2-1e79-4390-a559-cc96b9fa26a8" />
 
 
