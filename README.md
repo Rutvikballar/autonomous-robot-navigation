@@ -4,8 +4,6 @@ An autonomous robotics project in which a Husarion ROSbot explores five previous
 
 The controller operates without the Webots Supervisor API, robot modifications or prior knowledge of the maze. It also avoids green floor regions and handles walls, floating obstacles and low-contact hazards.
 
-![Top-down view of the Maze 1 Webots environment](./Maze1/worlds/.Maze1.jpg)
-
 ## Project highlights
 
 - Online occupancy-grid mapping from lidar observations
